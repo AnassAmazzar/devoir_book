@@ -1,0 +1,7 @@
+input BookDTO {
+    titre: String
+    publisher: String
+    datePublication: String
+    price: Int
+    resume: String
+}
